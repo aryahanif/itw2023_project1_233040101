@@ -1,0 +1,27 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-image {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("img/image.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 91.5;
+}
+
+.profile-picture {
+    max-width: 100%;
+    height: auto;
+}
+
+.about {
+    padding: 3rem 7% 1.4em;
+}
+
+.education {
+    padding: 3rem 7% 1.4em;
+}
+
+.game-profile {
+    padding: 3rem 7% 1.4em;
+}
