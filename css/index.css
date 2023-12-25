@@ -14,6 +14,10 @@ body {
     height: auto;
 }
 
+.jumbotron {
+    padding-top: 3rem 7% 1.4em;
+}
+
 .about {
     padding: 3rem 7% 1.4em;
 }
